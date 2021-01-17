@@ -1,9 +1,9 @@
-.skillsBlock {
+.freelanceBlock {
   height: 100vh;
-  background-color: lightblue;
+  background-color: lightsalmon;
 }
 
-.skillsContainer {
+.freelanceContainer {
   flex-direction: column;
   justify-content: flex-start;
 }
@@ -12,10 +12,9 @@
   background-color: lightgreen;
 }
 
-.skills {
+.freelance {
   border: 1px solid;
-  width: 100%;
+  /*width: 100%;*/
   display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
+  flex-direction: column;
 }

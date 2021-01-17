@@ -1,0 +1,21 @@
+.project {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  width: 500px;
+  text-align: center;
+  background-color: lightseagreen;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 500px;
+  height: 500px;
+  background-color: lightpink;
+}
+
+
